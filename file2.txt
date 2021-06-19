@@ -4,5 +4,5 @@ modifications in this file 2
 
 check to avoid passwords
 
-
+Make Git store the username and password and it will never ask for them.
 
