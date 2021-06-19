@@ -3,3 +3,8 @@ this is file 2
 modifications in this file 2
 
 check to avoid passwords
+
+check main and develop branch dynamics
+
+Make Git store the username and password and it will never ask for them.
+
