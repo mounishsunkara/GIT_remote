@@ -6,3 +6,12 @@ check to avoid passwords
 
 Make Git store the username and password and it will never ask for them.
 
+
+Make Git store the username and password and it will never ask for them.
+Make Git store the username and password and it will never ask for them.
+Make Git store the username and password and it will never ask for them.
+Make Git store the username and password and it will never ask for them.
+
+
+
+
