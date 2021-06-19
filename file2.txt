@@ -16,3 +16,4 @@ Make Git store the username and password and it will never ask for them.
 
 
 this is crazy hell
+this is stash lecture, change in file 2
